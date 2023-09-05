@@ -1,0 +1,10 @@
+C:\Users\reis\source\repos\Döviz\Döviz\bin\Debug\Döviz.exe.config
+C:\Users\reis\source\repos\Döviz\Döviz\bin\Debug\Döviz.exe
+C:\Users\reis\source\repos\Döviz\Döviz\bin\Debug\Döviz.pdb
+C:\Users\reis\source\repos\Döviz\Döviz\obj\Debug\Döviz.csproj.AssemblyReference.cache
+C:\Users\reis\source\repos\Döviz\Döviz\obj\Debug\Döviz.Form1.resources
+C:\Users\reis\source\repos\Döviz\Döviz\obj\Debug\Döviz.Properties.Resources.resources
+C:\Users\reis\source\repos\Döviz\Döviz\obj\Debug\Döviz.csproj.GenerateResource.cache
+C:\Users\reis\source\repos\Döviz\Döviz\obj\Debug\Döviz.csproj.CoreCompileInputs.cache
+C:\Users\reis\source\repos\Döviz\Döviz\obj\Debug\Döviz.exe
+C:\Users\reis\source\repos\Döviz\Döviz\obj\Debug\Döviz.pdb
