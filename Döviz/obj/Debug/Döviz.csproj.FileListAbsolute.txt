@@ -8,3 +8,14 @@ C:\Users\reis\source\repos\Döviz\Döviz\obj\Debug\Döviz.csproj.GenerateResourc
 C:\Users\reis\source\repos\Döviz\Döviz\obj\Debug\Döviz.csproj.CoreCompileInputs.cache
 C:\Users\reis\source\repos\Döviz\Döviz\obj\Debug\Döviz.exe
 C:\Users\reis\source\repos\Döviz\Döviz\obj\Debug\Döviz.pdb
+C:\Users\mehmets\DovizBarosu\Döviz\bin\Debug\Döviz.exe.config
+C:\Users\mehmets\DovizBarosu\Döviz\bin\Debug\Döviz.exe
+C:\Users\mehmets\DovizBarosu\Döviz\bin\Debug\Döviz.pdb
+C:\Users\mehmets\DovizBarosu\Döviz\obj\Debug\Döviz.csproj.AssemblyReference.cache
+C:\Users\mehmets\DovizBarosu\Döviz\obj\Debug\Döviz.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehmets\DovizBarosu\Döviz\obj\Debug\Döviz.Form1.resources
+C:\Users\mehmets\DovizBarosu\Döviz\obj\Debug\Döviz.Properties.Resources.resources
+C:\Users\mehmets\DovizBarosu\Döviz\obj\Debug\Döviz.csproj.GenerateResource.cache
+C:\Users\mehmets\DovizBarosu\Döviz\obj\Debug\Döviz.csproj.CoreCompileInputs.cache
+C:\Users\mehmets\DovizBarosu\Döviz\obj\Debug\Döviz.exe
+C:\Users\mehmets\DovizBarosu\Döviz\obj\Debug\Döviz.pdb
